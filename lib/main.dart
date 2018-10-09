@@ -38,7 +38,7 @@ class _MyHomePageState extends State<MyHomePage> {
           child: Column(
             children: <Widget>[
               Text(
-                'We Are Aoutobots',
+                'We Are Autobots',
                 style: TextStyle(color: Colors.black87, fontSize: 34.0),
               ),
               SizedBox(
